@@ -38,7 +38,8 @@ int main() {
 		//melakukan perulangan setiap baris
 		while (getline(infile, baris))
 		{
-			
+			//melakukan perulangan disini
+			cout << baris << '\n';
 		}
 	}
 
